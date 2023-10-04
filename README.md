@@ -1,4 +1,6 @@
-### Hi there 👋
+### 안녕하세여! 저는 개린이 입니당~
+
+- 2023년도 목표는 python, typescript, java 모두다 배우기!
 
 <!--
 **taetae0110/taetae0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
